@@ -1,0 +1,81 @@
+#one{
+    background-image: url(Images/bakery-image.png);
+    background-size: cover;
+}
+#two{
+    display: flex;
+    justify-content: space-evenly;
+    font-size:x-large;
+    
+}
+.three{
+    text-align: center;
+    font-size: xx-large;
+    font-style: oblique;
+    color: black;
+    padding: 350px;
+}
+#Us{
+    background-image: url(Images/about.png);
+    background-size: cover;
+}
+.bite{
+    margin-top: 15%;
+    color: whitesmoke;
+    font-size: x-large;
+}
+.ago{
+    color: aliceblue;
+}
+#world{
+    background-image: url(Images/wood.png);
+    background-size: cover;
+    font-size: x-large;
+    justify-content: space-around;
+}
+tables{
+    font-size: x-large;
+    border-style: hidden;
+    border: solid 2px;
+    table-layout: auto;
+    width: 50%;
+    align-self: center;
+    
+}
+#class{
+    background-image: url(Images/pic2.png);
+    background-size: cover;
+    color: white;
+    
+}
+#junk{
+    
+}
+#page{
+    border: solid 2px;
+    padding: 6px 6px;
+}
+.sheet{
+    align-self: center;
+    margin-left: 30%;
+    font-size: x-large;
+}
+.tweet{
+width: 70%;
+border-width: 40%;
+height:50% ;
+
+    
+}
+input{
+    width: 30%;
+    line-height: 3;
+}
+.kit{
+    margin-left: 20%;
+    right: 20%;
+    left :20%
+}
+.row{
+    margin-left: 20%;
+}
